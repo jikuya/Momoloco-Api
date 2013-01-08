@@ -1,0 +1,1 @@
+{"provides":{"Amon2::DBI::dr":{"file":"Amon2/DBI.pm"},"Amon2::DBI::db":{"file":"Amon2/DBI.pm"},"Amon2::Plugin::DBI":{"file":"Amon2/Plugin/DBI.pm"},"Amon2::DBI":{"version":"0.32","file":"Amon2/DBI.pm"},"Amon2::DBI::st":{"file":"Amon2/DBI.pm"}},"target":"Amon2::DBI","version":"0.32","name":"Amon2::DBI","dist":"Amon2-DBI-0.32","pathname":"T/TO/TOKUHIROM/Amon2-DBI-0.32.tar.gz"}

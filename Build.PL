@@ -47,6 +47,10 @@ my $build = Module::Build->subclass(
         'Plack::Session'                  => '0.14',
         'Test::WWW::Mechanize::PSGI'      => '0',
         'Time::Piece'                     => '1.20',
+	# momoloco
+        'Starman'                         => '0.3006',
+        'Server::Starter'                 => '0.12',
+        'Net::Server::SS::PreFork'        => '0.05',
     },
 
     no_index    => { 'directory' => [ 'inc' ] },
